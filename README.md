@@ -6,3 +6,4 @@ Description:
 
 This Unity3D game was developed as project for Mobile Games subject at CQUniversity. 
 It's  a runner game in which the player should avoid obstacles. 
+C# and Unity 3D 
